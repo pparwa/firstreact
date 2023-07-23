@@ -1,0 +1,39 @@
+.task{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: green;
+}
+svg{
+  color: red;
+}
+li{
+  list-style: none;
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.width
+{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+input
+{
+  outline: black;
+  width: 50%;
+  padding: 10px;
+}
+button
+{
+  color: beige;
+  background-color: black;
+  width: 10%;
+  padding: 10px;
+}
+.border{
+  border: 5px solid black;
+}
